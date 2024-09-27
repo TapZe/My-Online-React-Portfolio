@@ -3,7 +3,7 @@ import ThemeController from "./ThemeController";
 
 const Navbar = () => {
   return (
-    <div className="mt-3 mx-10">
+    <div className="my-3 md:mx-10">
       <div className="navbar bg-base-100 shadow-xl rounded-box">
         <div className="navbar-start">
           <div className="dropdown">

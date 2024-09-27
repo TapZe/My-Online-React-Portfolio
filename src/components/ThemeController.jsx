@@ -2,8 +2,6 @@ const ThemeController = () => {
   return (
     <>
       <div className="dropdown dropdown-end">
-        {" "}
-        {/* Use dropdown-end to align it correctly */}
         <div tabIndex={0} role="button" className="btn m-1">
           Theme
           <svg

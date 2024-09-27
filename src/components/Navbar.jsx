@@ -1,5 +1,7 @@
 import { Link } from "react-router-dom";
 import ThemeController from "./ThemeController";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faCode } from "@fortawesome/free-solid-svg-icons";
 
 const Navbar = () => {
   return (
@@ -47,8 +49,8 @@ const Navbar = () => {
               </li>
             </ul>
           </div>
-          <Link to={`/`} className="btn btn-ghost text-xl hidden lg:flex">
-            M Nabil Muyassar R
+          <Link to={`/`} className="btn btn-ghost text-xl hidden sm:flex">
+            <FontAwesomeIcon icon={faCode} size="xl" /> M Nabil Muyassar R
           </Link>
         </div>
         <div className="navbar-center hidden lg:flex">

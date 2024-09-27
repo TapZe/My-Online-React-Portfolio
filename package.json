@@ -10,6 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@fortawesome/free-brands-svg-icons": "^6.6.0",
     "my-online-react-portofolio": "file:",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",

@@ -3,7 +3,7 @@ import SkillsIcons from "../components/SkillsIcons";
 
 const Home = () => {
   return (
-    <main className="flex-grow flex justify-center self-center items-center px-4 md:px-32 lg:px-48 xl:px-56 gap-x-4">
+    <main className="flex-grow flex self-center items-center px-4 md:px-32 lg:px-48 xl:px-56 gap-x-4">
       <div className="flex flex-col md:flex-row items-center">
         <div className="flex flex-col mr-0 md:mr-4 mb-4 md:mb-0">
           <p className="text-3xl font-bold mb-4">

@@ -6,9 +6,10 @@ const About = () => {
       <div className="hero-content flex-col lg:flex-row-reverse">
         <img src={MyFoto} className="max-w-xs rounded-lg shadow-2xl" />
         <div>
-          <h1 className="text-3xl font-bold pb-6">
+          <h1 className="text-3xl font-bold pb-6">About Me</h1>
+          <h2 className="text-xl font-bold pb-3">
             I'm a Full-Stack Developer!
-          </h1>
+          </h2>
           <div className="text-justify space-y-3">
             <p>
               As an experienced{" "}

@@ -1,4 +1,5 @@
 import ContactIcons from "../components/ContactIcons";
+import SkillsIcons from "../components/SkillsIcons";
 
 const Home = () => {
   return (
@@ -17,9 +18,9 @@ const Home = () => {
           <ContactIcons />
         </div>
         <div className="md:w-full">
-          <img
-            src="https://skillicons.dev/icons?i=aws,gcp,react,laravel,mongodb,mysql&perline=3"
-            className="w-full"
+          <SkillsIcons
+            icons={"aws,py,react,laravel,mongodb,mysql"}
+            perLine={3}
           />
         </div>
       </div>

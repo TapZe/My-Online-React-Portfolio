@@ -2,7 +2,7 @@ import MyFoto from "../assets/HeroFoto.jpg";
 
 const About = () => {
   return (
-    <main className="flex-grow flex self-center items-center px-4 md:px-32 lg:px-48 xl:px-56">
+    <main className="flex-grow flex self-center items-center md:px-32 lg:px-48 xl:px-56">
       <div className="hero-content flex-col lg:flex-row-reverse">
         <img src={MyFoto} className="max-w-xs rounded-lg shadow-2xl" />
         <div>

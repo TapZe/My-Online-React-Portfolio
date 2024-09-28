@@ -37,6 +37,18 @@ const skillsData = [
       "A standard language for accessing and manipulating databases.",
     image: "https://skillicons.dev/icons?i=mysql",
   },
+  {
+    id: 7,
+    name: "mongodb",
+    description: "A NoSQL database program.",
+    image: "https://skillicons.dev/icons?i=mongodb",
+  },
+  {
+    id: 8,
+    name: "Laravel",
+    description: "A PHP framework for web application development.",
+    image: "https://skillicons.dev/icons?i=laravel",
+  },
 ];
 
 export default skillsData;

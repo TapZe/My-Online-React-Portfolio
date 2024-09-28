@@ -10,16 +10,22 @@ const Home = () => {
             Muhammad Nabil Muyassar Rahman
           </p>
           <p className="text-l mb-4">
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Corrupti,
-            rerum. Debitis accusantium deleniti enim iste dignissimos?
-            Similique, exercitationem! Odit vero, numquam quae ratione maxime
-            sunt reiciendis laudantium quaerat iure ipsum!
+            I am a Full-Stack Developer with expertise in web development and IT
+            project management. Skilled in Java, JavaScript, Python, PHP, and
+            frameworks like Laravel, Flask, and NodeJS, I deliver efficient
+            software solutions tailored to business needs. My experience
+            includes managing cloud (AWS) and on-premise (Proxmox) servers, SQL
+            and NoSQL databases, and ensuring seamless project execution. With a
+            strong foundation in server configuration, hosting, and
+            troubleshooting, I’m committed to partnering with organizations to
+            optimize their technology, implement efficient solutions, and drive
+            their goals to success with precision and confidence.
           </p>
           <ContactIcons />
         </div>
         <div className="md:w-full">
           <SkillsIcons
-            icons={"aws,py,react,laravel,mongodb,mysql"}
+            icons={"aws,py,nodejs,laravel,mongodb,mysql"}
             perLine={3}
           />
         </div>

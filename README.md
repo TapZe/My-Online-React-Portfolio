@@ -2,7 +2,7 @@
 
 ### Assignment 5 - Project: Online Portfolio on Program Web Development + React Bootcamp IBM X Hacktiv8
 
-This portfolio showcases my projects and skills as a web developer. It provides a detailed view of my experience, accomplishments, and technologies I work with. The site is built using React and TailwindCSS for a responsive, mobile-friendly design. **The demo website is deployed [here](my-online-react-portfolio.vercel.app)**.
+This portfolio showcases my projects and skills as a web developer. It provides a detailed view of my experience, accomplishments, and technologies I work with. The site is built using React and TailwindCSS for a responsive, mobile-friendly design. **The demo website is deployed at [my-online-react-portfolio.vercel.app](https://my-online-react-portfolio.vercel.app)**.
 
 ## Table of Contents
 

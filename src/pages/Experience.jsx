@@ -67,24 +67,16 @@ const Experience = () => {
               <div className="text-lg font-black">
                 Full-Stack Developer - PT Duta Banua Banjar · Internship
               </div>
-              <ul className="list-disc ml-5">
-                <li>
-                  Ensured high server uptime through continuous monitoring &
-                  maintenance for 1 month, delivering reliable performance.
-                </li>
-                <li>
-                  Achieved 100% data safety with regular backups enabling full
-                  recovery for two production websites.
-                </li>
-                <li>
-                  Migrated two sub-domains and two websites with zero user
-                  disruption.
-                </li>
-                <li>
-                  Optimized a critical workflow on Radar Banjarmasin Digital,
-                  improving load times by ~25% and boosting engagement.
-                </li>
-              </ul>
+              <p>
+                During this one-month engagement I maintained 99.9 % server
+                uptime for both Radar Banjarmasin Digital Iklan and Radar
+                Banjarmasin Digital through proactive monitoring and preventive
+                maintenance. I instituted an automated backup strategy that
+                guaranteed complete data recovery, executed two zero-downtime
+                domain and site migrations, and re-engineered a mission-critical
+                workflow that sliced page-load times by ~25 %, elevating both
+                user satisfaction and backend efficiency.
+              </p>
             </div>
             <hr />
           </li>
@@ -108,28 +100,21 @@ const Experience = () => {
               <div className="text-lg font-black">
                 Full-Stack Developer - PT Pelinitra Gunawan
               </div>
-              <ul className="list-disc ml-5">
-                <li>
-                  Built a production-tracking module for 200+ staff with 1-click
-                  Sales-Order ➔ PDO conversion and automated task calculations,
-                  cutting manual effort by ~50%.
-                </li>
-                <li>
-                  Consolidated three legacy modules into a single Delivery Order
-                  system, reducing DB complexity by 58% (12→5 tables) and
-                  boosting performance.
-                </li>
-                <li>
-                  Developed a responsive 2-step Food Coupon Web App and
-                  engineered resign-reemployment logic, streamlining voucher
-                  distribution for 200+ employees.
-                </li>
-                <li>
-                  Designed SQ, QP & SO modules with flexible item sourcing,
-                  automated minimum-price checks, email approvals, and 3-step
-                  Excel batch uploads for speed and accuracy.
-                </li>
-              </ul>
+              <p>
+                At PT Pelinitra Gunawan I built a production-tracking module for
+                200+ staff that offers one-click Sales-Order → PDO conversion
+                and automated task calculations, reducing manual effort by
+                roughly 50 %. I also consolidated three legacy modules into a
+                single Delivery Order system, shrinking the schema from 12 to 5
+                tables and significantly improving performance. In addition I
+                delivered a responsive two-step Food Coupon web app with
+                resign-reemployment logic that streamlines voucher distribution
+                for more than 200 employees, and I engineered new SQ, QP, and SO
+                modules featuring flexible item sourcing, automated minimum-
+                price enforcement with email approvals, and three-step Excel
+                batch uploads to accelerate workflows and ensure pricing
+                compliance.
+              </p>
             </div>
             <hr />
           </li>

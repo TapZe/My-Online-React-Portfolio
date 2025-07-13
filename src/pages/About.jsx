@@ -8,38 +8,43 @@ const About = () => {
         <div>
           <h1 className="text-3xl font-bold pb-6">About Me</h1>
           <h2 className="text-xl font-bold pb-3">
-            I'm a Full-Stack Developer!
+            Full-Stack Developer & Tech Enthusiast
           </h2>
           <div className="text-justify space-y-3">
             <p>
-              As an experienced{" "}
-              <span className="font-bold">Full-Stack Developer</span>, I
-              specialize in creating high-performing web applications and
-              managing IT projects with precision. My expertise spans a range of
-              programming languages including{" "}
+              I am{" "}
+              <span className="font-bold">Muhammad Nabil Muyassar Rahman</span>,
+              a passionate{" "}
+              <span className="font-bold">Full-Stack Developer</span> from
+              Central Jakarta, Indonesia. My toolkit spans modern frameworks
+              like{" "}
               <span className="font-bold">
-                Java, JavaScript, Python, and PHP
+                Next.js, NestJS, ExpressJS, Laravel,
               </span>
-              , paired with hands-on experience using frameworks such as{" "}
-              <span className="font-bold">Laravel, Flask, and NodeJS</span>.
+              and <span className="font-bold">Flask</span>, backed by strong
+              proficiency in{" "}
+              <span className="font-bold">
+                TypeScript, JavaScript, Python, PHP, and Java
+              </span>
+              .
             </p>
             <p>
-              With a strong background in server management—both{" "}
-              <span className="font-bold">cloud-based (AWS)</span> and{" "}
-              <span className="font-bold">on-premise (Proxmox)</span>—and
-              database systems like <span className="font-bold">SQL</span> and{" "}
-              <span className="font-bold">NoSQL</span>, I ensure smooth,
-              efficient deployments and seamless technical operations. I’m
-              dedicated to optimizing technology and providing tailored
-              solutions that align with the specific needs of businesses.
+              I architect and deliver high-performance, scalable applications,
+              managing infrastructure across{" "}
+              <span className="font-bold">AWS</span> and{" "}
+              <span className="font-bold">Proxmox</span> environments. Whether
+              working with <span className="font-bold">SQL</span> or{" "}
+              <span className="font-bold">NoSQL </span>
+              databases, I consistently optimize systems to exceed client
+              expectations.
             </p>
             <p>
-              Collaboration is at the heart of my work. I partner with
-              organizations to not only solve complex technical challenges but
-              to drive their success through efficient and reliable solutions.
-              From server configuration and troubleshooting to delivering
-              software that scales, my focus is on helping you achieve your
-              goals with confidence.
+              Highlights of my journey include enhancing the Pulau Intan Lestari
+              modules and revamping the Radar Banjarmasin Digital Website—both
+              of which saw notable boosts in user engagement and performance. A
+              collaborative problem-solver at heart, I am driven to keep
+              learning, growing, and building tech that leaves a positive,
+              global impact.
             </p>
           </div>
         </div>

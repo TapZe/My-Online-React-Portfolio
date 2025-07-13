@@ -19,9 +19,9 @@ const awardsData = [
     credId: "2006927840-111",
     title: "Game dan Animasi (Talent Scouting Academy)",
     year: "2023",
-    link: "https://digitalent.kominfo.go.id/cek-sertifikat",
+    link: "https://digitalent.komdigi.go.id/cek-sertifikat",
     image:
-      "https://aptika.kominfo.go.id/wp-content/uploads/2019/09/digitalent-e1568964668804.jpg", // Replace with actual image URL
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRExLxoovw4FXfV7-SAjKmE1bPOtCqz-9TUbw&s", // Replace with actual image URL
   },
   {
     credId: "72102 3121 00998 2023",

@@ -10,23 +10,27 @@ const Home = () => {
             Muhammad Nabil Muyassar Rahman
           </p>
           <p className="text-l mb-4">
-            I am a Full-Stack Developer with expertise in web development and IT
-            project management. Skilled in Java, JavaScript, Python, PHP, and
-            frameworks like Laravel, Flask, and NodeJS, I deliver efficient
-            software solutions tailored to business needs. My experience
-            includes managing cloud (AWS) and on-premise (Proxmox) servers, SQL
-            and NoSQL databases, and ensuring seamless project execution. With a
-            strong foundation in server configuration, hosting, and
-            troubleshooting, I’m committed to partnering with organizations to
-            optimize their technology, implement efficient solutions, and drive
-            their goals to success with precision and confidence.
+            I am a dedicated <span className="font-bold">Full-Stack Developer</span> based in
+            Central Jakarta, Indonesia. Leveraging modern frameworks such as
+            <span className="font-bold">Next.js, NestJS, ExpressJS, Laravel</span>, and
+            <span className="font-bold">Flask</span>, I build high-performance, scalable
+            solutions that align with strategic business objectives. Proficient
+            in <span className="font-bold">TypeScript, JavaScript, Python, PHP,</span> and
+            <span className="font-bold">Java</span>, I pair solid coding skills with proven
+            experience orchestrating <span className="font-bold">AWS</span> and
+            on-premise <span className="font-bold">Proxmox</span> infrastructure. My work on
+            mission-critical products—such as Pulau Intan Lestari modules and the
+            Radar Banjarmasin Digital Website—has consistently elevated user
+            experience and engagement.
           </p>
           <ContactIcons />
         </div>
         <div className="md:w-full">
           <SkillsIcons
-            icons={"aws,py,nodejs,laravel,mongodb,mysql"}
-            perLine={3}
+            icons={
+              "nextjs,nestjs,express,laravel,flask,react,ts,js,python,php,java,aws,mongodb,mysql"
+            }
+            perLine={5}
           />
         </div>
       </div>

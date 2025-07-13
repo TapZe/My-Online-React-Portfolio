@@ -49,6 +49,78 @@ const skillsData = [
     description: "A PHP framework for web application development.",
     image: "https://skillicons.dev/icons?i=laravel",
   },
+  {
+    id: 9,
+    name: "TypeScript",
+    description: "A typed superset of JavaScript that compiles to plain JS.",
+    image: "https://skillicons.dev/icons?i=ts",
+  },
+  {
+    id: 10,
+    name: "Java",
+    description: "A robust, object-oriented programming language.",
+    image: "https://skillicons.dev/icons?i=java",
+  },
+  {
+    id: 11,
+    name: "PHP",
+    description: "A popular server-side scripting language.",
+    image: "https://skillicons.dev/icons?i=php",
+  },
+  {
+    id: 12,
+    name: "Next.js",
+    description: "React framework for production-grade apps.",
+    image: "https://skillicons.dev/icons?i=nextjs",
+  },
+  {
+    id: 13,
+    name: "NestJS",
+    description: "Progressive Node.js framework for building server-side apps.",
+    image: "https://skillicons.dev/icons?i=nestjs",
+  },
+  {
+    id: 14,
+    name: "Express",
+    description: "Fast, unopinionated, minimalist web framework for Node.js.",
+    image: "https://skillicons.dev/icons?i=express",
+  },
+  {
+    id: 15,
+    name: "TailwindCSS",
+    description: "Utility-first CSS framework for rapid UI development.",
+    image: "https://skillicons.dev/icons?i=tailwind",
+  },
+  {
+    id: 16,
+    name: "Bootstrap",
+    description: "Popular CSS framework for responsive design.",
+    image: "https://skillicons.dev/icons?i=bootstrap",
+  },
+  {
+    id: 17,
+    name: "MongoDB",
+    description: "A NoSQL document database.",
+    image: "https://skillicons.dev/icons?i=mongodb",
+  },
+  {
+    id: 18,
+    name: "DynamoDB",
+    description: "AWS NoSQL database service.",
+    image: "https://skillicons.dev/icons?i=aws",
+  },
+  {
+    id: 19,
+    name: "Prisma",
+    description: "Next-generation ORM for Node.js & TypeScript.",
+    image: "https://skillicons.dev/icons?i=prisma",
+  },
+  {
+    id: 20,
+    name: "AWS",
+    description: "Amazon Web Services cloud platform.",
+    image: "https://skillicons.dev/icons?i=aws",
+  },
 ];
 
 export default skillsData;

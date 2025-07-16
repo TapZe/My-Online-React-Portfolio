@@ -10,17 +10,17 @@ const Home = () => {
             Muhammad Nabil Muyassar Rahman
           </p>
           <p className="text-l mb-4">
-            I am a dedicated <span className="font-bold">Full-Stack Developer</span> based in
-            Central Jakarta, Indonesia. Leveraging modern frameworks such as
-            <span className="font-bold">Next.js, NestJS, ExpressJS, Laravel</span>, and
-            <span className="font-bold">Flask</span>, I build high-performance, scalable
-            solutions that align with strategic business objectives. Proficient
-            in <span className="font-bold">TypeScript, JavaScript, Python, PHP,</span> and
-            <span className="font-bold">Java</span>, I pair solid coding skills with proven
-            experience orchestrating <span className="font-bold">AWS</span> and
-            on-premise <span className="font-bold">Proxmox</span> infrastructure. My work on
-            mission-critical products—such as Pulau Intan Lestari modules and the
-            Radar Banjarmasin Digital Website—has consistently elevated user
+            I am a dedicated <span className="font-bold">Full-Stack Developer</span> based in{" "}
+            Central Jakarta, Indonesia. Leveraging modern frameworks such as{" "}
+            <span className="font-bold">Next.js, NestJS, ExpressJS, Laravel</span>, and{" "}
+            <span className="font-bold">Flask</span>, I build high-performance, scalable{" "}
+            solutions that align with strategic business objectives. Proficient{" "}
+            in <span className="font-bold">TypeScript, JavaScript, Python, PHP,</span> and{" "}
+            <span className="font-bold">Java</span>, I pair solid coding skills with proven{" "}
+            experience orchestrating <span className="font-bold">AWS</span> and{" "}
+            on-premise <span className="font-bold">Proxmox</span> infrastructure. My work on{" "}
+            mission-critical products—such as Pulau Intan Lestari modules and the{" "}
+            Radar Banjarmasin Digital Website—has consistently elevated user{" "}
             experience and engagement.
           </p>
           <ContactIcons />
